@@ -71,6 +71,7 @@ Finally, if you don't want any theme at all, you can add this to your
 (setq prelude-theme nil)
 ```
 
+
 ## Personalizing
 
 All files you create under the `personal/` directory are yours for
